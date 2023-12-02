@@ -1,0 +1,9 @@
+1. Main menu: list of recipes => recipe => recipe page => edit, delete
+                 button => add recipe
+
+
+Recipe.java - class
+MainMenu.java - Swing
+RecipePage.java - Swing
+RecipeAddPage.java - Swing
+
