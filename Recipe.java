@@ -11,6 +11,5 @@ public class Recipe {
     
     Recipe(String name) {
         this.name = name;
-        System.out.println(instructions);
     }
 }
